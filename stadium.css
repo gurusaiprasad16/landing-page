@@ -1,0 +1,38 @@
+#parent{
+    border: 2px solid aqua;
+    height: 90vh;
+    background-image: url(Chitralahari-2019-songs-download-sai-dharam-dsp.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.child1{
+    border: none;
+    height: 200px;
+    width: 200px;
+    background-image: url(Nuvvena\ song\ img.jpeg);
+    background-size: 100%;
+    border-radius: 50%;
+}
+
+.child2{
+    border: none;
+    height: 100px;
+    width: 100px;
+}
+
+.child3{
+    border: none;
+    height: 200px;
+    width: 200px;
+    background-image: url(oosaravallli.jpg);
+    background-size: 100%;
+    border-radius: 50%;
+}
+h1:hover{
+    color: red; 
+}
